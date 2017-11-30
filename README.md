@@ -1,3 +1,5 @@
+# Caleb Noa repositiro de Java / Platzi
+
 # PlatziJava
 Para correr correctamente este proyecto es necesario que crees una base de datos con MySQL, 
 puedes hacerlo utilizando cualquiera de estas herramientas:
